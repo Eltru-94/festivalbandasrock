@@ -1,0 +1,9 @@
+//Forma anterior
+/*
+@import '../base/variables';
+@import '../contenido/contenido';
+*/
+
+//Forma Nueva
+@use 'base';
+@use 'layout'
